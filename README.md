@@ -19,10 +19,10 @@ Our analysis report will include:
 * Regional Analysis, Top Product , Customer Segmentation, Category analysis, Sales and Revenue trends.
 
 ## 🛠️ Technical Stack
-Component  |	Technology
-Data Processing	>>Python (Pandas, NumPy)
-Visualization >>	Matplotlib, Seaborn
-Analysis Report >> WORD/EXCEL
+COMPONENTS AND TECHNOLOGIES.
+Data Processing	>>Python (Pandas, NumPy) ||
+Visualization >>	Matplotlib, Seaborn||
+Analysis Report >> WORD/EXCEL||
 Data Source	>> https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?resource=download
 
 
@@ -32,7 +32,7 @@ Data Source	>> https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 📧 Contact
 For questions or collaboration:
 
-GitHub: @
+GitHub: @SupriseMahlalela
 
 Email: mahlalelasuprise57@gmail.com
 
