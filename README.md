@@ -20,9 +20,13 @@ Our analysis report will include:
 
 ## 🛠️ Technical Stack
 COMPONENTS AND TECHNOLOGIES.
+
 Data Processing	>>Python (Pandas, NumPy) ||
-Visualization >>	Matplotlib, Seaborn||
-Analysis Report >> WORD/EXCEL||
+
+Visualization >>	Matplotlib, Seaborn ||
+
+Analysis Report >> WORD/EXCEL ||
+
 Data Source	>> https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?resource=download
 
 
