@@ -33,8 +33,8 @@ Data Source	>> https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 
 
-📧 Contact
-For questions or collaboration:
+## 📧 Contact
+FOR QUESTIONS OR COLLABORATION:
 
 GitHub: @SupriseMahlalela
 
