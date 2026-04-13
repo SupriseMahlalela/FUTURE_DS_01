@@ -2,13 +2,13 @@
 
 Data Analytics and Data Science task no1.
 
-##AUTHOR : SUPRISE MAHLALELA.
+## AUTHOR : SUPRISE MAHLALELA.
 An analysis of business sales across multiple regions, categories, sub-categories, segments, revenue and product information.
 
 ## PROJECT OVERVIEW.
 This project aim to analyse business data from  2014-01-03 up to 2017-12-30 in order to gain valuable insights and discover hidden patterns so that we can come up with better recommendations which are
 crucial for bussiness improvement and informed business decisions.
-##ANALYSIS REPORT.
+## ANALYSIS REPORT.
 
 Our analysis report will include:
 * Future recommendations.
@@ -18,7 +18,7 @@ Our analysis report will include:
 * Data visualisation and interpretation.
 * Regional Analysis, Top Product , Customer Segmentation, Category analysis, Sales and Revenue trends.
 
-🛠️ Technical Stack
+## 🛠️ Technical Stack
 Component  |	Technology
 Data Processing	>>Python (Pandas, NumPy)
 Visualization >>	Matplotlib, Seaborn
